@@ -3,3 +3,12 @@
 require_relative '../lib/move.rb'
 
 # Code your CLI Here
+
+#take a string input into this method and convert it into an integer
+
+board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+
+def "Welcome to Tic Tac Toe!"
+
+
+#to.i#is how you do it^^^
